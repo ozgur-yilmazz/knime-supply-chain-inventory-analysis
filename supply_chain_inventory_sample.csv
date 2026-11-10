@@ -1,0 +1,61 @@
+﻿Product_ID,Product_Name,Category,Warehouse,Stock_Quantity,Daily_Sales,Lead_Time_Days,Unit_Price
+P001,Wireless Mouse,Electronics,Istanbul,44,27,13,1380.12
+P001,Wireless Mouse,Electronics,Ankara,181,4,14,191.45
+P001,Wireless Mouse,Electronics,Izmir,215,34,14,1267.33
+P002,Keyboard,Electronics,Istanbul,306,18,5,745.35
+P002,Keyboard,Electronics,Ankara,205,14,5,1046.21
+P002,Keyboard,Electronics,Izmir,371,15,16,734.51
+P003,USB-C Hub,Electronics,Istanbul,185,9,4,144.24
+P003,USB-C Hub,Electronics,Ankara,226,30,16,1027.24
+P003,USB-C Hub,Electronics,Izmir,74,27,14,1554.44
+P004,Webcam,Electronics,Istanbul,148,16,17,1255.39
+P004,Webcam,Electronics,Ankara,306,8,8,113.11
+P004,Webcam,Electronics,Izmir,192,20,5,1107.14
+P005,Headphones,Electronics,Istanbul,369,26,8,551.66
+P005,Headphones,Electronics,Ankara,387,31,8,775.16
+P005,Headphones,Electronics,Izmir,320,8,10,784.72
+P006,Notebook,Office,Istanbul,60,12,6,1086.56
+P006,Notebook,Office,Ankara,376,16,5,1133.91
+P006,Notebook,Office,Izmir,334,5,7,1339.16
+P007,Printer Paper,Office,Istanbul,179,28,16,493.35
+P007,Printer Paper,Office,Ankara,161,9,13,262.32
+P007,Printer Paper,Office,Izmir,334,8,15,1268.67
+P008,Pen Set,Office,Istanbul,12,27,13,1141.53
+P008,Pen Set,Office,Ankara,118,27,11,929.39
+P008,Pen Set,Office,Izmir,188,3,5,223.09
+P009,Desk Organizer,Office,Istanbul,181,24,13,923.94
+P009,Desk Organizer,Office,Ankara,193,4,15,1031.99
+P009,Desk Organizer,Office,Izmir,230,20,4,517.64
+P010,Stapler,Office,Istanbul,228,21,3,724.1
+P010,Stapler,Office,Ankara,393,9,7,1372.04
+P010,Stapler,Office,Izmir,169,3,6,135.66
+P011,LED Bulb,Home,Istanbul,343,11,17,1074.28
+P011,LED Bulb,Home,Ankara,124,6,11,1263.96
+P011,LED Bulb,Home,Izmir,398,23,9,1310.8
+P012,Storage Box,Home,Istanbul,168,12,5,80.32
+P012,Storage Box,Home,Ankara,51,4,15,763.22
+P012,Storage Box,Home,Izmir,291,25,5,824.12
+P013,Water Bottle,Home,Istanbul,375,7,10,738.77
+P013,Water Bottle,Home,Ankara,281,7,9,513.85
+P013,Water Bottle,Home,Izmir,276,22,12,181.3
+P014,Cleaning Kit,Home,Istanbul,151,13,4,1540.75
+P014,Cleaning Kit,Home,Ankara,152,31,10,458.43
+P014,Cleaning Kit,Home,Izmir,282,27,18,1255.96
+P015,Coffee Mug,Home,Istanbul,111,25,15,468.34
+P015,Coffee Mug,Home,Ankara,185,4,4,1448.55
+P015,Coffee Mug,Home,Izmir,59,17,14,520.76
+P016,Phone Case,Accessories,Istanbul,88,28,12,319.88
+P016,Phone Case,Accessories,Ankara,190,30,3,1163.76
+P016,Phone Case,Accessories,Izmir,305,23,9,1020.47
+P017,Charging Cable,Accessories,Istanbul,64,21,4,176.31
+P017,Charging Cable,Accessories,Ankara,263,26,9,109.71
+P017,Charging Cable,Accessories,Izmir,79,18,6,269.74
+P018,Laptop Stand,Accessories,Istanbul,138,24,4,958.79
+P018,Laptop Stand,Accessories,Ankara,319,7,7,948.55
+P018,Laptop Stand,Accessories,Izmir,370,16,8,963.87
+P019,Screen Protector,Accessories,Istanbul,124,2,5,794.98
+P019,Screen Protector,Accessories,Ankara,383,17,15,173.65
+P019,Screen Protector,Accessories,Izmir,117,18,13,1503.32
+P020,Power Bank,Accessories,Istanbul,201,7,12,781.28
+P020,Power Bank,Accessories,Ankara,324,10,18,854.65
+P020,Power Bank,Accessories,Izmir,139,30,10,78.61
